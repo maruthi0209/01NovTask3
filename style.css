@@ -12,6 +12,7 @@ body {
     height: 50px;
     border-radius: 50%;
     animation-duration: 1s;
+    animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
 
